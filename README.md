@@ -19,11 +19,11 @@ Nos reunimos semanalmente abarcando temas específicos, revisando el material di
 
 Todas las sesiones de estudio serán gratuitas y totalmente remotas. Las grabaciones se subirán a [YouTube](https://www.youtube.com/channel/UCZymp9hXtXiGm4RigjLUScA).
 
-## Horario
+## Sesiones
 
 Evento | Tema  | Diapositivas | Grabación | Material Adicional |
 -----| :-: | :-: | :-: | :-: |
-Reunión | Charla Informativa |  [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1f5FFv_rS0-u1QiM5lA6stDs_W0MF0GwJ/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/_S_yjoUuOnI) 
+Reunión | Charla Informativa |  [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1f5FFv_rS0-u1QiM5lA6stDs_W0MF0GwJ/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/_S_yjoUuOnI) | |
 Clase 1 | Course Introduction  | | |
 Clase 2 |	Image Classification | | |
 Clase 3	| Linear Classifiers | | |
