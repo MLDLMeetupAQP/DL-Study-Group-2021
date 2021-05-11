@@ -25,7 +25,7 @@ Evento | Tema  | Diapositivas | Grabación | Material Adicional |
 -----| :-: | :-: | :-: | :-: |
 Reunión | Charla Informativa |  [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1f5FFv_rS0-u1QiM5lA6stDs_W0MF0GwJ/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/_S_yjoUuOnI) | |
 Clase 1 | Course Introduction  | [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/106h5P95rDPnTe-8SZaXVvOC3mMMxw8q5/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://www.youtube.com/watch?v=ddg7kkJhYN0)  [![](./imgs/icon_fb.png)](https://www.facebook.com/MLDLMeetupAQP/videos/863752677816357) | |
-Clase 2 |	Image Classification | | |
+Clase 2 |	Image Classification | [![](./imgs/icon_pdf.png)](https://web.eecs.umich.edu/~justincj/slides/eecs498/FA2020/598_FA2020_lecture02.pdf)  | [![](./imgs/icon_youtube.png)](https://youtu.be/iQhgJ6JxGvQ) |
 Clase 3	| Linear Classifiers | | |
 Clase 4	| Regularization + Optimization | | |
 
