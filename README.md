@@ -28,7 +28,7 @@ Sesión 1 | Course Introduction  | [![](./imgs/icon_pdf.png)](https://drive.goog
 Sesión 2 |	Image Classification | [![](./imgs/icon_pdf.png)](https://web.eecs.umich.edu/~justincj/slides/eecs498/FA2020/598_FA2020_lecture02.pdf)  | [![](./imgs/icon_youtube.png)](https://youtu.be/iQhgJ6JxGvQ) |
 Sesión 3	| Linear Classifiers | [![](./imgs/icon_pdf.png)](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture03.pdf) | [![](./imgs/icon_youtube.png)](https://youtu.be/sk0d7u0C6aQ)  [![](./imgs/icon_fb.png)](https://www.facebook.com/MLDLMeetupAQP/videos/373565957385710) | |
 Sesión 4	| Optimization | [![](./imgs/icon_pdf.png)](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture04.pdf) | [![](./imgs/icon_youtube.png)](https://youtu.be/x6XW6QEBG10) | - [CS231n Optimization](https://cs231n.github.io/optimization-1/) <br> - [Dive into DL: Chapter 11](https://d2l.ai/chapter_optimization/index.html) <br> - [Deep Learning: Chapter 8](https://www.deeplearningbook.org/contents/optimization.html) <br> - [Overview of Optimization](https://ruder.io/optimizing-gradient-descent/) |
-Sesión 5 | Neural Networks | | |
+Sesión 5 | Neural Networks | [![](./imgs/icon_pdf.png)](https://web.eecs.umich.edu/~justincj/slides/eecs498/FA2020/598_FA2020_lecture05.pdf) | [![](./imgs/icon_youtube.png)](https://youtu.be/-dfgB88YGcM) | - [CS231n Neural Networks](https://cs231n.github.io/neural-networks-1/) <br> - [Dive into DL: Chapter 4.1 a 4.3](https://d2l.ai/chapter_multilayer-perceptrons/index.html) <br> - [Deep Learning: Chapter 6.1 a 6.4](https://www.deeplearningbook.org/contents/mlp.html) <br> - [Universal Approximation](http://neuralnetworksanddeeplearning.com/chap4.html)
 
 ____
 Únete a nuestra comunidad:
